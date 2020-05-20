@@ -19,7 +19,7 @@ else
     <link rel="icon" href="http://icons.iconarchive.com/icons/mattahan/umicons/48/Mics-Bullet-2-icon.png" type="image/ico" >
     <link rel="shortcut icon" href="http://icons.iconarchive.com/icons/mattahan/umicons/48/Mics-Bullet-2-icon.png" type="image/ico" >
     <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" href="/styles2.css" type="text/css">
+    <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
     <section class="congratulations">
