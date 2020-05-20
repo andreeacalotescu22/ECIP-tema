@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - Ceva la misto</title>
+    <title>Rase de pisici - ECIP</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="https://wwf.panda.org/knowledge_hub/endangered_species/" type="text/css">
     <link rel="icon" href="http://icons.iconarchive.com/icons/mattahan/umicons/48/Mics-Bullet-2-icon.png" type="image/ico" >
@@ -23,26 +23,27 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Aplicatia Andreei</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
+        <h1>Rase de Pisici</h1>
+        <p></p>
+		<p></p>
+		<p></p>
+        <p>Rasele mele preferate de PISICI <?= phpversion() ?></p>
     </section>
 
     <section class="instructions">
-        <h2>What's Next?</h2>
+        <h2>Persana</h2>
         <ul>
-            <li><a href="https://wwf.panda.org/knowledge_hub/endangered_species/">AWS Elastic Beanstalk overview</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Using Amazon RDS with PHP</a>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html">Customizing the Software on EC2 Instances</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
+            <li><a href="https://www.pinterest.com/Brianna_MD/white-persian-cats/">Persana Alba</a></li>
+            <li><a href="https://www.pinterest.com/pin/447404544222064964/">Persana Albastra</a></li>
+            <li><a href="https://cats.lovetoknow.com/cat-breeds/chinchilla-persian-cats">Persana Chinchilla</a>
+            <li><a href="https://www.sweetpurrfections.com/2017/01/whos-who-telling-us-apart.html">Persana Argintie</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>Scottish Fold</h2>
         <ul>
-            <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
-            <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
-            <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
+            <li><a href="https://www.pinterest.com/pin/159596380527931803/?d=t&mt=signupOrPersonalizedLogin">Scottish Fold Albastra</a></li>
+            <li><a href="https://www.gettyimages.com/detail/photo/cute-kitten-royalty-free-image/95712916?adppopup=true">Scottish Fold Bej</a></li>
+            <li><a href="https://www.gettyimages.com/detail/photo/kitten-playing-royalty-free-image/625701582?adppopup=true">Scottish Fold Blue Point</a></li>
         </ul>
     </section>
 
